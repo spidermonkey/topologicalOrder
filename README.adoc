@@ -1,3 +1,5 @@
+image:https://travis-ci.org/spidermonkey/topologicalOrder.svg?branch=master["Build Status", link="https://travis-ci.org/spidermonkey/topologicalOrder"]
+
 == Simple topological order generator on cyclic inverse dependency graphs.
 
 == Building from Source
