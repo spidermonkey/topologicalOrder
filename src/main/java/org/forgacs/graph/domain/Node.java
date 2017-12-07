@@ -1,4 +1,4 @@
-package org.forgacs.graph;
+package org.forgacs.graph.domain;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

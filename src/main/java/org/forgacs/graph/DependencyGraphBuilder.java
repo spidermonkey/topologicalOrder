@@ -1,5 +1,8 @@
 package org.forgacs.graph;
 
+import org.forgacs.graph.domain.Graph;
+import org.forgacs.graph.domain.Node;
+
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;

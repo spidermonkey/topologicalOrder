@@ -1,6 +1,8 @@
 package org.forgacs.graph;
 
 import lombok.experimental.UtilityClass;
+import org.forgacs.graph.domain.Graph;
+import org.forgacs.graph.domain.NodeVisitor;
 
 import java.util.LinkedList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package org.forgacs.graph;
+package org.forgacs.graph.domain;
 
 @FunctionalInterface
 public interface NodeVisitor {

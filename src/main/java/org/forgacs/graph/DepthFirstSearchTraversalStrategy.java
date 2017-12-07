@@ -1,9 +1,13 @@
 package org.forgacs.graph;
 
 
+import org.forgacs.graph.domain.Graph;
+import org.forgacs.graph.domain.Node;
+import org.forgacs.graph.domain.NodeVisitor;
+
 import java.util.*;
 
-import static org.forgacs.graph.NodeVisitor.VisitType.*;
+import static org.forgacs.graph.domain.NodeVisitor.VisitType.*;
 
 public class DepthFirstSearchTraversalStrategy {
 

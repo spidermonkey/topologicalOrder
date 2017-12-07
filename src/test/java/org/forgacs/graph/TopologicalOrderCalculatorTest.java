@@ -1,5 +1,6 @@
 package org.forgacs.graph;
 
+import org.forgacs.graph.domain.Graph;
 import org.junit.Test;
 
 import java.util.List;
